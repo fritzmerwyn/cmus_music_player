@@ -15,4 +15,5 @@ open cmus and directly type:
 :bind -f common u shell ~/update_cmus_library.sh
 ```
 Press Enter
+
 Press "u" to update library.
